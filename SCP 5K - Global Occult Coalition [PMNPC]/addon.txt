@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "SCP: 5K - Global Occult Coalition [PM/NPC]"
+	"author_name" "Author Name"
+	"info" "{"title":"SCP: 5K - Global Occult Coalition [PM/NPC]","type":"model","tags":["fun","roleplay","scenic"],"ignore":["*.tga","*.qc","*.ugh","*.qci","*.smd","*.meta","*.gif"]}"
+}
